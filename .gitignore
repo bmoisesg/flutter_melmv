@@ -6,3 +6,4 @@ macos/
 web/
 windows/
 pubspec.lock
+.vscode
